@@ -1,0 +1,54 @@
+
+body{
+overflow: hidden;
+
+} 
+
+.hmepg{
+   background-image: url(./images.png);
+   background-size: cover;
+}
+
+
+.img-sum{
+    background-image: url(./clear-yellow-wall.jpg);
+    background-size:cover;
+}
+
+.img-win{
+    background-image: url(.//winter-icegif-3.webp);
+    background-size:cover;
+}
+
+.img-aut{
+
+background-image: url(./3d-render-grunge-style-interior-design.jpg);
+ background-size:cover;}
+
+
+ .img-spr{
+    
+background-image: url(./spring.jpg);
+ background-size:cover;}
+
+ 
+ .img-str{
+    
+background-image: url(./rainfall-drops.avif);
+ background-size:cover;}
+
+ 
+ .img-post{
+    
+background-image: url(./colors-of-the-rainbow.avif);
+ background-size:cover;}
+
+
+.img-snow{
+    
+background-image: url(./snow\ bg.jpg);
+ background-size:cover;}
+
+
+
+ 
